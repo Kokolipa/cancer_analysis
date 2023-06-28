@@ -1,4 +1,4 @@
-# Python Challenge
+# Skin Cancer Analysis 
 ### Project description:
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company specialising in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a common form of skin cancer.
 
