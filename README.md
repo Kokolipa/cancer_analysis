@@ -11,6 +11,7 @@ The executive team has tasked you with generating all of the tables and figures 
 - Creating summary statistics for the study
 - Analysis
     - Implementation of linear regression (scipy library)
+- Additional  - Sample Analysis
 
 #### TLDR - Conclusions
 - The following drug regimens had the most positive effect on mice over the time points of the study (a key indicator for the effectiveness of a given medicine can be the tumour size in cubic millimetres over the whole period, in particular the mean, median and variance results, **the lower the results are over the timepoints of the study, the better the effect of the medicine on mice**):
